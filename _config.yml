@@ -3,30 +3,30 @@ repository: sproogen/resume-theme
 # favicon: images/favicon.ico
 
 # Personal info
-name: Ivica Micev
-title: Dev Ops | AWS Solutions Architect
-email: ivica.micev@tuliptp.com
+name: Petar Gjorgievski
+title: DevOps Engineer | AWS Solutions Architect
+email: petar.gjorgievski@tuliptp.com
 website: tuliptp.com
 
 # Social links
-twitter_username: ivicamicev
-github_username:  ivicamicev
+twitter_username: PetarGjorgievs2
+github_username:  PetarGjorgievski94
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: micevivica
-linkedin_username: ivica-micev-2420645
+#instagram_username: micevivica
+linkedin_username: petar-gjorgievski-a76b64164/
 # pinterest_username: jekyll
-youtube_username: ivica.micev
+#youtube_username: ivica.micev
 # googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Skilled DevOps Engineer with 10+ years experience in IT as System Engineer and 3+ years of hands-on experience in building and supporting workloads on AWS using infrastructure as a code and DevOps principals, 2 years experience as AWS Solutions Architect. Passion for building new and improving existing workloads on AWS based on Well Architected Framework, helping in cloud journey and application transformation.
+  Skilled DevOps Engineer with a big passion for the cloud with profficient hands on experience delivering AWS workloads using infrastructure as code and DevOps principles and metodologies.
 
-  I am most skilled in: <mark>AWS</mark>, <mark>Scripting Languges</mark>,<mark>Infrastructure as a code</mark><mark>Cloud Solutions</mark> 
+  I am most skilled in: <mark>AWS</mark>, <mark>Scripting Languges</mark>,<mark>Infrastructure as a code</mark><mark>Cloud Solutions</mark><mark>Ansible</mark>
 
 # Projects Section
 # projects_title: Projects
@@ -40,10 +40,10 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in cloud, aws infrastructure as a code and software engineering some of my other interests and hobbies are:
-   - Fishing
-   - Organizing AWS User group events (meetups)
-   - Coffee lover, i like to try all bleds of esspresso
+  Alongside my professional interests some of my other interests and hobbies include:
+   - Skiing
+   - Playing music
+   - Gaming
 
 # Footer
 footer_show_references: true

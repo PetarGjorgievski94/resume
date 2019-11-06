@@ -6,36 +6,14 @@
   quote: >
    Inovation, inspiration and integrity group of cool people
   description: | # this will include new lines to allow paragraphs
-    We belive thet every engineer should be free, thats why we created this group of freelancers with abition to become startup.
+    We belive thet every engineer should be free, that's why we created this group of independent freelancers with an abition to become a startup. Our small team is always chelenging each other and we truely believe in the phrase "Individual commitment to a group effort--that is what makes a team work, a company work, a society work, a civilization work."
 
 - layout: left
   company: Symphony Solutions
   link: symphony-solutions.com
-  job_title: Senior DevOps | AWS Solutions Architect
-  dates: December 2017 - Present
+  job_title: DevOps Engineer
+  dates: June 2018 - Present
   quote: >
-    If you want clever solutions, then you need Symphony Solutions
+    Write code like music!
   description: | # this will include new lines to allow paragraphs
-    Working in team with awesome people as DevOps engineer using best practices to create reliable cloud environments based on best practices.
-    Infrastructure as a code,Cloudformation - using jinja2 on top of cloudformation to gain more power and reusable code, Terraform modules,
-    Ansible as configuration management and tool for managing and rendering templates, CI/CD, Python scripts and CLI tools, Creating cloud environments based on best practices using AWS Landing Zone and Control tower.
-
-- layout: left
-  company: ITGMA | TriNimbus
-  link: itgma.com
-  job_title: Cloud Support engineer
-  dates: June 2015 - December 2017
-  quote: >
-    Making Cloud as new normal
-  description: | # this will include new lines to allow paragraphs
-    As Cloud support engineer in the support team i've gained a lot of experience handling incidents on non production and production environments, working with customers directly and helping them to grow in the cloud (aws).
-
-- layout: left
-  company: Ministry of Transport and Communications (North Macedonia)
-  link: mtc.gov.mk
-  job_title: Senior Network System Administrator
-  dates: June 2008 - June 2015
-  quote: >
-    Making modern data centre from scratch
-  description: | # this will include new lines to allow paragraphs
-    Every company needs its networks properly administered specilay  government institutions. Starting with Linksys home router making sure the whole institution stays connected to modern data centre with single sign on service, centralized user management, on premise email service, and all componets. Mission was accomplished after 7 years.
+    Working on AWS implementing DevOps tools for creating and managing infrastructure and applications. Implementing infrastructure as a code. Assisting enterprises with their transition to the cloud using AWS standards and best practices. Gained experience with jinja2 empowered cloudformation templates, ansible, CI/CD, Python, Bash, CLI tools and Amazon Landing Zone.
