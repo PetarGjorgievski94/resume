@@ -26,7 +26,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Skilled DevOps Engineer with a big passion for the cloud with profficient hands on experience delivering AWS workloads using infrastructure as code and DevOps principles and metodologies.
 
-  I am most skilled in: <mark>AWS</mark>, <mark>Scripting Languges</mark>,<mark>Infrastructure as a code</mark><mark>Cloud Solutions</mark><mark>Ansible</mark>
+  I am most skilled in: <mark>AWS</mark>, <mark>Scripting Languges</mark>, <mark>Infrastructure as a code</mark>, <mark>Cloud Solutions</mark>, <mark>Ansible</mark>
 
 # Projects Section
 # projects_title: Projects
@@ -35,7 +35,7 @@ about_content: | # this will include new lines to allow paragraphs
 experience_title: Experience
 
 # Education Section
-educaton_title: Certification
+educaton_title: Certifications
 
 # More Section
 # more_title: A Little More About Me
