@@ -24,7 +24,7 @@ linkedin_username: petar-gjorgievski-a76b64164/
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Skilled DevOps Engineer with a big passion for the cloud with profficient hands on experience delivering AWS workloads using infrastructure as code and DevOps principles and metodologies.
+  Skilled DevOps Engineer with a big passion for the cloud with proficient hands on experience delivering AWS workloads using infrastructure as code and DevOps principles and methodologies.
 
   I am most skilled in: <mark>AWS</mark>, <mark>Scripting Languges</mark>, <mark>Infrastructure as a code</mark>, <mark>Cloud Solutions</mark>, <mark>Ansible</mark>
 
